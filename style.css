@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(213,215,218);
+    margin: 0px;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: rgb(123, 123, 179);
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    background-color: rgb(22, 209, 209);
+    color: whitesmoke;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: rgb(175, 99, 44);
+    color: rgb(34, 64, 165);
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+section {
+    background-color: rgb(163, 204, 97);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(42, 169, 207);
+}
+
+section h2 {
+    color: red;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
